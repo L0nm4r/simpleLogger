@@ -1,4 +1,4 @@
-module github.com/l0nm4r/simpleLogger
+module github.com/L0nm4r/simpleLogger
 
 go 1.17
 
